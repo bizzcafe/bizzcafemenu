@@ -1,0 +1,36 @@
+
+
+
+
+.popup{
+  background-color: black;
+
+  width: 450px;
+  padding: 30px 40px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  left: 50%;
+  top: 70%;
+  border-radius: 8px;
+  display: none;
+
+}
+
+
+
+.photo{
+  height: 100%;
+  width: 100%;
+}
+
+.popup button{
+  display: block;
+  margin: 0 0 20px auto;
+  background-color: #B73E3E;
+  font-size: 30px;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+
+
+}
